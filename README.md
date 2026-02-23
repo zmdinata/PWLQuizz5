@@ -3,7 +3,8 @@
 **Mata Kuliah:** Pemrograman Web Lanjut (Laravel 12)  
 **Nama:** Zacky Muhammad Dinata  
 **NIM:** 43240450  
-**Kampus:** STMIK IKMI Cirebon  
+**Kampus:** STMIK IKMI Cirebon 
+**Link GDrive:** https://drive.google.com/drive/folders/130sUiaEzef8kHbVt_RNFL62jLMotiAgl?usp=sharing
 
 ---
 
@@ -52,3 +53,4 @@ Untuk memeriksa hasil pekerjaan, silakan ikuti langkah berikut:
 | `app/Http/Controllers/BukuController.php` | Resource Controller utama |
 | `resources/views/perpus_index.blade.php` | View daftar buku dengan `@foreach` |
 | `routes/web.php` | Pendaftaran `Route::resource('koleksi', ...)` |
+
